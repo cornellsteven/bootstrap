@@ -1,43 +1,60 @@
-@import "core/variables.less";
-@import "core/mixins.less";
-@import "core/reset.less";
-@import "structure/scaffolding.less";
-@import "structure/grid.less";
-@import "structure/layouts.less";
-@import "base-css/type.less";
-@import "base-css/code.less";
-@import "base-css/forms.less";
-@import "base-css/tables.less";
-@import "common/font-awesome.less";
-@import "common/dropdowns.less";
-@import "common/wells.less";
-@import "common/component-animations.less";
-@import "common/close.less";
-@import "buttons/buttons.less";
-@import "buttons/button-groups.less";
-@import "buttons/alerts.less";
-@import "nav/navs.less";
-@import "nav/navbar.less";
-@import "nav/breadcrumbs.less";
-@import "nav/pagination.less";
-@import "nav/pager.less";
-@import "popovers/modals.less";
-@import "popovers/tooltip.less";
-@import "popovers/popovers.less";
-@import "misc/thumbnails.less";
-@import "misc/media.less";
-@import "misc/labels-badges.less";
-@import "misc/progress-bars.less";
-@import "misc/accordion.less";
-@import "misc/carousel.less";
-@import "misc/hero-unit.less";
-@import "core/utilities.less";
-@import "custom/cake.less";
+// Bootstrap version 3.0.0
+// Core variables and mixins
+@import "variables/variables.less";
+@import "variables/mixins.less";
 
-/* App Styles */
+// Reset
+@import "reset/normalize.less";
+@import "reset/print.less";
+
+// Core CSS
+@import "core/scaffolding.less";
+@import "core/type.less";
+@import "core/code.less";
+@import "core/grid.less";
+@import "core/tables.less";
+@import "core/forms.less";
+@import "core/buttons.less";
+
+// Components
+@import "components/component-animations.less";
+@import "components/font-awesome/font-awesome.less";
+@import "components/dropdowns.less";
+@import "components/button-groups.less";
+@import "components/input-groups.less";
+@import "components/navs.less";
+@import "components/navbar.less";
+@import "components/breadcrumbs.less";
+@import "components/pagination.less";
+@import "components/pager.less";
+@import "components/labels.less";
+@import "components/badges.less";
+@import "components/jumbotron.less";
+@import "components/thumbnails.less";
+@import "components/alerts.less";
+@import "components/progress-bars.less";
+@import "components/media.less";
+@import "components/list-group.less";
+@import "components/panels.less";
+@import "components/wells.less";
+@import "components/close.less";
+
+// Components w/ JavaScript
+@import "components-js/modals.less";
+@import "components-js/tooltip.less";
+@import "components-js/popovers.less";
+@import "components-js/carousel.less";
+
+// Utility classes
+@import "utilities/utilities.less";
+@import "utilities/responsive-utilities.less";
+
+
+// App Styles
 body {
-	
+  padding-top: 50px;
 }
-
-/* Responsive */
-// @import "responsive.less";
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
