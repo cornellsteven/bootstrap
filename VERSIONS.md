@@ -2,8 +2,8 @@
 
 ### Version information for various dependencies, libraries, etc.
 
-cornellsteven/bootstrap -	**2.0**  
-twitter/bootstrap -			**3.0.0**  
-FortAwesome/Font-Awesome -	**3.2.1**  
-jquery -					**1.9.1**  
-modernizr -					**2.6.2**  
+cornellsteven/bootstrap -   **2.0.0**  
+twitter/bootstrap -         **3.1.1**  
+FortAwesome/Font-Awesome -  **4.0.3**  
+jquery -                    **1.11.0**  
+modernizr -                 **2.6.2**  
