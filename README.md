@@ -1,10 +1,8 @@
 ## Bootstrap / Boilerplate template
-=============
 
 Just a starting point for sites I build using Twitter Bootstrap.
 
 ## Versions
-===================
 
 | Technology  | Version  |
 | ----------- | -------: |
