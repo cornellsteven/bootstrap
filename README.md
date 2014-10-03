@@ -6,8 +6,8 @@ Just a starting point for sites I build using Twitter Bootstrap.
 
 | Technology  | Version  |
 | ----------- | -------: |
-| Project     | 2.1.0    |
-| Bootstrap   | 3.1.1    |
-| FontAwesome | 4.0.3    |
-| jQuery      | 1.11.0   |
+| Project     | 2.2.0    |
+| Bootstrap   | 3.2.0    |
+| FontAwesome | 4.2.0    |
+| jQuery      | 1.11.1   |
 | modernizr   | 2.6.2    |

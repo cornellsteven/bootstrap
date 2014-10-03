@@ -1,11 +1,12 @@
-// Bootstrap version 3.1.1
+// Bootstrap version 3.2.0
 // Core variables and mixins
 @import "bootstrap/variables.less";
 @import "bootstrap/mixins.less";
 
-// Reset
+// Reset and dependencies
 @import "bootstrap/normalize.less";
 @import "bootstrap/print.less";
+@import "bootstrap/glyphicons.less";
 
 // Core CSS
 @import "bootstrap/scaffolding.less";
@@ -18,7 +19,6 @@
 
 // Components
 @import "bootstrap/component-animations.less";
-@import "../fonts/fontawesome/less/font-awesome.less";
 @import "bootstrap/dropdowns.less";
 @import "bootstrap/button-groups.less";
 @import "bootstrap/input-groups.less";
@@ -36,6 +36,7 @@
 @import "bootstrap/media.less";
 @import "bootstrap/list-group.less";
 @import "bootstrap/panels.less";
+@import "bootstrap/responsive-embed.less";
 @import "bootstrap/wells.less";
 @import "bootstrap/close.less";
 
@@ -49,6 +50,8 @@
 @import "bootstrap/utilities.less";
 @import "bootstrap/responsive-utilities.less";
 
+// Optionally include font-awesome
+@import "fontawesome/less/font-awesome.less";
 
 // App Styles
 body {
