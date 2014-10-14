@@ -11,17 +11,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/js\/libs\/bootstrap.min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/js\/libs\/bootstrap.min.js",
-		"outputAbbreviatedPath": "\/js\/libs\/min\/bootstrap.min-min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
-		"syntaxCheckerStyle": 0
-		},
 	"\/js\/libs\/jquery-1.11.0.min.js": {
 		"fileType": 64,
 		"ignore": 1,
@@ -1808,15 +1797,6 @@
 		"strictImports": 0,
 		"strictMath": 0,
 		"strictUnits": 0
-		},
-	"\/VERSIONS.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/VERSIONS.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/VERSIONS.md": {
 		"enableFootnoteSupport": 0,
