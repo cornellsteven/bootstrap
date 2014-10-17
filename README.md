@@ -1,4 +1,4 @@
-## Bootstrap / Boilerplate template
+### Bootstrap / Boilerplate template
 
 Just a starting point for sites I build using Twitter Bootstrap.
 
