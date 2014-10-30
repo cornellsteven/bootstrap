@@ -100,11 +100,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/stylesheets\/css\/styles.css": {
+	"\/stylesheets\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/stylesheets\/css\/styles.css",
+		"inputAbbreviatedPath": "\/stylesheets\/css\/main.css",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1789,7 +1789,7 @@
 		"strictMath": 0,
 		"strictUnits": 0
 		},
-	"\/stylesheets\/less\/styles.less": {
+	"\/stylesheets\/less\/main.less": {
 		"allowInsecureImports": 0,
 		"createSourceMap": 1,
 		"disableJavascript": 0,
@@ -1797,8 +1797,8 @@
 		"ieCompatibility": 1,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/stylesheets\/less\/styles.less",
-		"outputAbbreviatedPath": "\/stylesheets\/css\/styles.css",
+		"inputAbbreviatedPath": "\/stylesheets\/less\/main.less",
+		"outputAbbreviatedPath": "\/stylesheets\/css\/main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -1824,7 +1824,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Cornell Campbell",
+"lastSavedByUser": "Hooper",
 "manualImportLinks": {
 	},
 "projectAttributes": {
